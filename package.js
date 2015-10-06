@@ -11,7 +11,7 @@ Package.describe({
    */
   version: '1.3.0',
   summary: 'Orion polish language',
-  git: '[git-repository-url]',
+  git: 'https://github.com/brajt/orion-lang-pl',
   documentation: 'README.md'
 });
 
