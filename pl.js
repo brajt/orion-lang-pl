@@ -10,14 +10,14 @@ i18n.map('pl', {
     choose: 'Wybierz',
     noPermission: 'Nie masz uprawnień',
     passwordNotMatch: 'Hasła nie są identyczne',
-    optional: 'Opcjonalne'
+    optional: 'Nieobowiązkowe'
   },
   accounts: {
     schema: {
       emails: {
         title: 'Emaile',
         address: 'Adres',
-        verified: 'Zweryfikowane'
+        verified: 'Zweryfikowany'
       },
       password: {
         title: 'Hasło',
@@ -30,11 +30,14 @@ i18n.map('pl', {
     },
     index: {
       title: 'Konta',
+      noName: 'Brak nazwy'
       actions: {
         edit: 'Edytuj',
+        sendEnrollmentEmail: 'Wyślij zaproszenie'
       },
       tableTitles: {
         name: 'Nazwa użytkownika',
+        services: 'Sposób logowania',
         email: 'Email',
         roles: 'Role',
         actions: 'Akcje'
@@ -164,7 +167,8 @@ i18n.map('pl', {
       choose: 'Wybierz obraz'
     },
     images: {
-      choose: 'Wybierz obrazy'
+      choose: 'Wybierz obrazy',
+      clickToRemove: 'Kliknij, aby usunąć'
     }
   },
   tabular: {
