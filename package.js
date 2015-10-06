@@ -9,7 +9,7 @@ Package.describe({
    * version indicator: 1.3.1, 1.3.2. Always keep the current
    * orion version (currently 1.3.x).
    */
-  version: '1.3.0',
+  version: '1.3.1',
   summary: 'OrionJS - Polish language',
   git: 'https://github.com/brajt/orion-lang-pl',
   documentation: 'README.md'
