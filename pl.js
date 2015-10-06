@@ -30,7 +30,7 @@ i18n.map('pl', {
     },
     index: {
       title: 'Konta',
-      noName: 'Brak nazwy'
+      noName: 'Brak nazwy',
       actions: {
         edit: 'Edytuj',
         sendEnrollmentEmail: 'Wyślij zaproszenie'
