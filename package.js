@@ -10,7 +10,7 @@ Package.describe({
    * orion version (currently 1.3.x).
    */
   version: '1.3.0',
-  summary: 'Orion polish language',
+  summary: 'OrionJS - Polish language',
   git: 'https://github.com/brajt/orion-lang-pl',
   documentation: 'README.md'
 });
